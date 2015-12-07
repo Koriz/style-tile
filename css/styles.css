@@ -17,11 +17,11 @@
 
 /* Textures or Patterns*/
 .pattern-1 {
-    background:
+    background: url(../img/Pattern.png);
 }
 
 .pattern-2 {
-    background: 
+    background: url(../img/Pattern2.png);
 }
 
 .pattern-3 {
@@ -51,13 +51,13 @@
 
 /* Typography */
     /*-------------------------------------------
-    Headlines: font-family: 'Anton', sans-serif;
+    Headlines: font-family: 'Righteous', cursive;
     Body Copy: font-family: 'Karla', sans-serif;
     ---------------------------------------------*/
 h1,
 h2,
 h3 {
-    font-family: 'Anton', sans-serif;
+    font-family: 'Righteous', cursive;
 }
 
 p {
